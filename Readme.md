@@ -40,7 +40,6 @@ src/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/allanholanda/QuizEduca-Backend
-   cd quiz-educacional-backend
 
 2. Instale as dependências:
     npm install
