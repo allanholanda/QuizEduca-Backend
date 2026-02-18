@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1754447905838" clover="3.2.0">
+  <project timestamp="1754447905838" name="All files">
+    <metrics statements="34" coveredstatements="23" conditionals="14" coveredconditionals="4" methods="20" coveredmethods="9" elements="68" coveredelements="36" complexity="0" loc="34" ncloc="34" packages="3" files="4" classes="4"/>
+    <package name="repositories.in-memory">
+      <metrics statements="21" coveredstatements="11" conditionals="10" coveredconditionals="1" methods="17" coveredmethods="6"/>
+      <file name="in-memory-post-repository.ts" path="C:\Users\allan\OneDrive\FIAP - POS TECH\FASE 2 - BACKEND E QUALIDADE\Tech Challenge Fase 2 - Allan Holanda (ATT)\blog-api\src\repositories\in-memory\in-memory-post-repository.ts">
+        <metrics statements="14" coveredstatements="5" conditionals="6" coveredconditionals="0" methods="11" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+      <file name="in-memory-user-repository.ts" path="C:\Users\allan\OneDrive\FIAP - POS TECH\FASE 2 - BACKEND E QUALIDADE\Tech Challenge Fase 2 - Allan Holanda (ATT)\blog-api\src\repositories\in-memory\in-memory-user-repository.ts">
+        <metrics statements="7" coveredstatements="6" conditionals="4" coveredconditionals="1" methods="6" coveredmethods="4"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="use-cases">
+      <metrics statements="10" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <file name="create-post.ts" path="C:\Users\allan\OneDrive\FIAP - POS TECH\FASE 2 - BACKEND E QUALIDADE\Tech Challenge Fase 2 - Allan Holanda (ATT)\blog-api\src\use-cases\create-post.ts">
+        <metrics statements="10" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="use-cases.errors">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="forbiden-error.ts" path="C:\Users\allan\OneDrive\FIAP - POS TECH\FASE 2 - BACKEND E QUALIDADE\Tech Challenge Fase 2 - Allan Holanda (ATT)\blog-api\src\use-cases\errors\forbiden-error.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
